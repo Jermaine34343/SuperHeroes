@@ -2,7 +2,7 @@ package superheros;
 
 import java.util.Arrays;
 
-public abstract class SuperHero {
+public abstract class SuperHero implements IFlight {
 
 private String realName;
 private String[] specialPowers;

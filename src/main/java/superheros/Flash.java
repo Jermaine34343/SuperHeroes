@@ -14,4 +14,8 @@ public class Flash extends SuperHero{
     public String[] listOfPowers() {
         return getSpecialPowers();
     }
+
+    public String Flight() {
+        return null;
+    }
 }
